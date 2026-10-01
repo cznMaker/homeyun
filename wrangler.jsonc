@@ -1,0 +1,9 @@
+{
+  // 你的项目名称
+  "name": "homeyun", 
+  "compatibility_date": "2026-10-02",
+  "assets": {
+    // 构建输出目录，默认是 dist
+    "directory": "./dist" 
+  }
+}
